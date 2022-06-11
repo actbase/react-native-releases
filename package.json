@@ -1,7 +1,7 @@
 {
   "name": "@actbase/react-native-releases",
   "bin": {
-    "install": "./bin/cli"
+    "react-native-releases": "./bin/cli"
   },
   "version": "0.0.1",
   "description": "React Native Version Manager",
